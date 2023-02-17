@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarBrasil
-- 👀 I’m interested in economics, data, and bycicles
+- 👀 I’m interested in economics, data-science, and bycicles
 - 🌱 I’m currently learning python
 - 📫 How to reach me ig: @marcusvbrasil
 
